@@ -1,0 +1,12 @@
+.DS_Store
+build
+*.swp
+*.pyc
+*.pyo
+*.swo
+tmp.*
+tmp
+.coverage
+venv
+*.pcap
+*.png
